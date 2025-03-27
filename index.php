@@ -2,8 +2,7 @@
 // Simple PHP index file
 
 // Set the page title
-$title = "Welcome to My Website";
-
+$title = "Welcome to My Website of IT Concultancy";
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -28,4 +27,3 @@ $title = "Welcome to My Website";
     <p>The current date and time is: <strong><?php echo date("Y-m-d H:i:s"); ?></strong></p>
 </body>
 </html>
-
